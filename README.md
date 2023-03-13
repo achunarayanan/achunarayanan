@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js,express.js,Mongodb,React,HTMl,CSS,Bootstrap**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:toachunarayanan@gmail.com</h3>
 <p align="left">
 </p>
 
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achunarayanan&show_icons=true&locale=en&layout=compact" alt="achunarayanan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achunarayanan&show_icons=true&locale=en" alt="achunarayanan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=achunarayanan&show_icons=true&locale=en" alt="achunarayanan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achunarayanan&" alt="achunarayanan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=achunarayanan&" alt="achunarayanan" /></p>
