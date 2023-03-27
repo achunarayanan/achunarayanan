@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Achu Narayanan N</h1>
-<h3 align="left">Self-Learning Full Stack Web Developer (MERN) from India. Passionate about Creating Innovative Solutions that Make a Positive Impact.</h3>
+<h3 align="left">Self-Learning Full Stack Web Developer (MERN) from India. Passionate and in Love with JavaScript and it's Eco System.</h3>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=achunarayanan&label=Profile%20views&color=0e75b6&style=flat" alt="achunarayanan" /> </p>
 
